@@ -1,0 +1,3 @@
+PyAutoGUI==0.9.37
+pyobjc==4.2.2
+pyobjc-core==4.2.2
